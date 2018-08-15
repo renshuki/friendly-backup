@@ -79,3 +79,8 @@ db_password='my_db_password'
  - [ ] Add a way to backup config files too
  - [ ] Alternative backup for other DBMS
  - [ ] Make an interactive setup?
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/renshuki/friendly-backup/badge.svg?style=beer-square)](https://beerpay.io/renshuki/friendly-backup)  [![Beerpay](https://beerpay.io/renshuki/friendly-backup/make-wish.svg?style=flat-square)](https://beerpay.io/renshuki/friendly-backup?focus=wish)
